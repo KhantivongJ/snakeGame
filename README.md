@@ -9,14 +9,14 @@ Collect as many points as possible by moving the snake to eat the squares. If th
 # Movement
 
 ### Controls
-W = Move Up  
-S = Move Down  
-A = Move Left  
+W = Move Up  <br />
+S = Move Down  <br />
+A = Move Left  <br />
 D = Move Right
 
 
 ### Snake Speed Adjustment
-UP ARROW KEY = Snake Moves Faster  
+UP ARROW KEY = Snake Moves Faster  <br />
 DOWN ARROW KEY = Snake Moves Slower
 
 ### Music 
